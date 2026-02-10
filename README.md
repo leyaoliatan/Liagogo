@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Liagogo, currently a Master's student in Quantitative Marketing
-- 🖥 My website: https://leyaoliatan.github.io/
-- 📫 How to reach out to me: leyao.lia.tan@gmail.com
+- 👋 Hi, I’m @Liagogo
 
 <!---
 Liagogo/Liagogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
